@@ -1,0 +1,4 @@
+/* Please load it in your html file. */
+body::before {
+    content: 'Hello world.';
+}
